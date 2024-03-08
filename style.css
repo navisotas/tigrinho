@@ -25,7 +25,7 @@ body{
 
 .sobre_nos{
     background-image: linear-gradient();
-    color: aliceblue;
+    color: rgb(16, 125, 219);
     display: flex;
     justify-content: center;
     align-items: center;

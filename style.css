@@ -11,11 +11,11 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 29px 0;
 }
 
 .cabeçalho-imagem{
-    width: 10%;
+    width: 20%;
 }
 .cabeçalho-lista-item{
     display: inline-block;

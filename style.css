@@ -61,7 +61,7 @@ body{
 .sobre_nos-imagem{
     width: 25%;
 }
-<section class="lojas">
+section class="lojas">
         <h2 class="lojas-titulo">Nossas Lojas</h2>
 
         <div class="lojas-todosestados-div">
@@ -81,7 +81,7 @@ Código CSS da seção lojas
 /* secao lojas*/
 .lojas{
     background-color: #a9a9a9;
-}
+
 
 .lojas-titulo{
 color: #3B0050;
